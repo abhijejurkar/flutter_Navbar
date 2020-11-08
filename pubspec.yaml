@@ -2,7 +2,7 @@ name: restaurantnavbar
 description: A new Flutter package.
 version: 0.0.1
 
-author: Abhishek Jejurkar <jejurkarabhishek@gmail.com>
+#author: Abhishek Jejurkar <jejurkarabhishek@gmail.com>
 homepage: https://github.com/abhijejurkar/flutter_Navbar
 
 environment:
